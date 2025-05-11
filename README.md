@@ -6,9 +6,13 @@
 
 
 **Languages: C, C++, Python, JavaScript ,typescript
+
 **Frontend: HTML, CSS, JavaScript, React
+
 **Backend: Node.js, Express.js, Flask (learning)
+
 **Machine Learning: numpy,pandas,matplotlib,seaborn,Scikit-learn, OpenCV
+
 **Version Control:Git, GitHub
 
 
