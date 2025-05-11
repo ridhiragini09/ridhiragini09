@@ -3,6 +3,8 @@
 🎓 I'm a B.Tech Information Technology student at KIIT University (2022–2026), passionate about full-stack development, machine learning, and building real-world web applications. 
 
 🔧 Technologies & Tools
+
+
 **Languages: C, C++, Python, JavaScript ,typescript
 **Frontend: HTML, CSS, JavaScript, React
 **Backend: Node.js, Express.js, Flask (learning)
